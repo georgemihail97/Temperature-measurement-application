@@ -1,0 +1,10 @@
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Aplicatie de masurare a temperaturii\Aplicatie de masurare a temperaturii\bin\Debug\Aplicatie de masurare a temperaturii.exe.config
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Aplicatie de masurare a temperaturii\Aplicatie de masurare a temperaturii\bin\Debug\Aplicatie de masurare a temperaturii.exe
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Aplicatie de masurare a temperaturii\Aplicatie de masurare a temperaturii\bin\Debug\Aplicatie de masurare a temperaturii.pdb
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Aplicatie de masurare a temperaturii\Aplicatie de masurare a temperaturii\obj\Debug\Aplicatie de masurare a temperaturii.csprojAssemblyReference.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Aplicatie de masurare a temperaturii\Aplicatie de masurare a temperaturii\obj\Debug\Aplicatie_de_masurare_a_temperaturii.Form1.resources
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Aplicatie de masurare a temperaturii\Aplicatie de masurare a temperaturii\obj\Debug\Aplicatie_de_masurare_a_temperaturii.Properties.Resources.resources
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Aplicatie de masurare a temperaturii\Aplicatie de masurare a temperaturii\obj\Debug\Aplicatie de masurare a temperaturii.csproj.GenerateResource.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Aplicatie de masurare a temperaturii\Aplicatie de masurare a temperaturii\obj\Debug\Aplicatie de masurare a temperaturii.csproj.CoreCompileInputs.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Aplicatie de masurare a temperaturii\Aplicatie de masurare a temperaturii\obj\Debug\Aplicatie de masurare a temperaturii.exe
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Aplicatie de masurare a temperaturii\Aplicatie de masurare a temperaturii\obj\Debug\Aplicatie de masurare a temperaturii.pdb
